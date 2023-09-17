@@ -1,0 +1,23 @@
+.b {
+    background-color:white ;
+    text-align: center;
+
+}
+.c {
+    background-color: deeppink;
+    width: 1600px;
+    height: 220px;
+    
+}
+.d {margin-left: 10px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+
